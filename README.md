@@ -9,4 +9,6 @@ En el repositorio podemos encontrar las siguientes carpetas:
 
 Esta es la página web del [Instituto]
 
+![Logo del instituto](https://blog.iespuertodelacruz.es/wp-content/header/Logotipo_IES.png)
+
 [Instituto]: https://blog.iespuertodelacruz.es
