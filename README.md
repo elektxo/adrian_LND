@@ -1,20 +1,8 @@
-# adrian_LND
-Repositorio para la asignatura de lenguaje de marca
-
-## Titulo
+# ***LENGUAJE DE MARCAS***
 ### Subtitulo
-Este es un ejemplo de texto que da entrada a una lista desordenada de elementos:
+Este repositorio lo usaremos para la asignatura de **lenguaje de marcas**.
 
-- Elemento 1
-- Elemento 2
-- Elemento 3
+En el repositorio podemos encontrar las siguientes carpetas:
 
-Este es un ejemplo de texto que da entrada a una lista ordenada de elementos:
-
-1. Elemento 1
-2. Elemento 2
-3. Elemento 3
-
-Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de una manera muy sencilla.
-
-`Esto es una línea de código`
+- Practicas `\adrian_LND\practicas\`
+- Tareas `\adrian_LND\tareas\`
